@@ -37,8 +37,16 @@
       "id": "DEF3067B-8196-41E2-A7CD-D6F5F9231FED"
     },
     {
+      "class": "shapeGroup",
+      "id": "0B53763C-2757-4824-BE0E-DF93D640BE94"
+    },
+    {
       "class": "text",
       "id": "3E81BF0F-6E6F-46E4-844B-C6BE8A8A122F"
+    },
+    {
+      "class": "text",
+      "id": "5FF05DCE-E6A9-42F6-8E6B-992875DCA3B9"
     }
   ],
   "name": "Page 1",
